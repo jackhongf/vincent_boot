@@ -15,7 +15,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
- * 〈一句话功能简述〉<br> 
+ *
  * 〈非内置tomcat的SpringBoot容器Sevlet初始化〉
  *
  * @author vincent hong 
